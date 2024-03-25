@@ -1,0 +1,8 @@
+name: salingjaga-pwa-poc
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: pushm0v/salingjaga-pwa-poc
+  name: salingjaga-pwa-poc
